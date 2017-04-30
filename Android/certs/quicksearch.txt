@@ -1,0 +1,60 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            c2:e0:87:46:64:4a:30:8d
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: C = US, ST = California, L = Mountain View, O = Google Inc., OU = Android, CN = Android
+        Validity
+            Not Before: Aug 21 23:13:34 2008 GMT
+            Not After : Jan  7 23:13:34 2036 GMT
+        Subject: C = US, ST = California, L = Mountain View, O = Google Inc., OU = Android, CN = Android
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ab:56:2e:00:d8:3b:a2:08:ae:0a:96:6f:12:4e:
+                    29:da:11:f2:ab:56:d0:8f:58:e2:cc:a9:13:03:e9:
+                    b7:54:d3:72:f6:40:a7:1b:1d:cb:13:09:67:62:4e:
+                    46:56:a7:77:6a:92:19:3d:b2:e5:bf:b7:24:a9:1e:
+                    77:18:8b:0e:6a:47:a4:3b:33:d9:60:9b:77:18:31:
+                    45:cc:df:7b:2e:58:66:74:c9:e1:56:5b:1f:4c:6a:
+                    59:55:bf:f2:51:a6:3d:ab:f9:c5:5c:27:22:22:52:
+                    e8:75:e4:f8:15:4a:64:5f:89:71:68:c0:b1:bf:c6:
+                    12:ea:bf:78:57:69:bb:34:aa:79:84:dc:7e:2e:a2:
+                    76:4c:ae:83:07:d8:c1:71:54:d7:ee:5f:64:a5:1a:
+                    44:a6:02:c2:49:05:41:57:dc:02:cd:5f:5c:0e:55:
+                    fb:ef:85:19:fb:e3:27:f0:b1:51:16:92:c5:a0:6f:
+                    19:d1:83:85:f5:c4:db:c2:d6:b9:3f:68:cc:29:79:
+                    c7:0e:18:ab:93:86:6b:3b:d5:db:89:99:55:2a:0e:
+                    3b:4c:99:df:58:fb:91:8b:ed:c1:82:ba:35:e0:03:
+                    c1:b4:b1:0d:d2:44:a8:ee:24:ff:fd:33:38:72:ab:
+                    52:21:98:5e:da:b0:fc:0d:0b:14:5b:6a:a1:92:85:
+                    8e:79
+                Exponent: 3 (0x3)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                C7:7D:8C:C2:21:17:56:25:9A:7F:D3:82:DF:6B:E3:98:E4:D7:86:A5
+            X509v3 Authority Key Identifier: 
+                keyid:C7:7D:8C:C2:21:17:56:25:9A:7F:D3:82:DF:6B:E3:98:E4:D7:86:A5
+                DirName:/C=US/ST=California/L=Mountain View/O=Google Inc./OU=Android/CN=Android
+                serial:C2:E0:87:46:64:4A:30:8D
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: md5WithRSAEncryption
+         6d:d2:52:ce:ef:85:30:2c:36:0a:aa:ce:93:9b:cf:f2:cc:a9:
+         04:bb:5d:7a:16:61:f8:ae:46:b2:99:42:04:d0:ff:4a:68:c7:
+         ed:1a:53:1e:c4:59:5a:62:3c:e6:07:63:b1:67:29:7a:7a:e3:
+         57:12:c4:07:f2:08:f0:cb:10:94:29:12:4d:7b:10:62:19:c0:
+         84:ca:3e:b3:f9:ad:5f:b8:71:ef:92:26:9a:8b:e2:8b:f1:6d:
+         44:c8:d9:a0:8e:6c:b2:f0:05:bb:3f:e2:cb:96:44:7e:86:8e:
+         73:10:76:ad:45:b3:3f:60:09:ea:19:c1:61:e6:26:41:aa:99:
+         27:1d:fd:52:28:c5:c5:87:87:5d:db:7f:45:27:58:d6:61:f6:
+         cc:0c:cc:b7:35:2e:42:4c:c4:36:5c:52:35:32:f7:32:51:37:
+         59:3c:4a:e3:41:f4:db:41:ed:da:0d:0b:10:71:a7:c4:40:f0:
+         fe:9e:a0:1c:b6:27:ca:67:43:69:d0:84:bd:2f:d9:11:ff:06:
+         cd:bf:2c:fa:10:dc:0f:89:3a:e3:57:62:91:90:48:c7:ef:c6:
+         4c:71:44:17:83:42:f7:05:81:c9:de:57:3a:f5:5b:39:0d:d7:
+         fd:b9:41:86:31:89:5d:5f:75:9f:30:11:26:87:ff:62:14:10:
+         c0:69:30:8a

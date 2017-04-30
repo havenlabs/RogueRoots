@@ -6,6 +6,9 @@
 
 [VirusTotal scan of "base.apk"](https://www.virustotal.com/en/file/63de0d3350a7250060f7260fa8013badf2b15aa77d5a98c80a078a2c1a1e8215/analysis/)
 
+Here's the [decoded code signing certificate](https://github.com/havenlabs/RogueRoots/blob/master/Android/instantapps/InstantAppsCert.txt) packaged with base.apk
+
+Screenshot of the application's published attributes, post-installation on test device:
 ![screenshot](https://raw.githubusercontent.com/havenlabs/RogueRoots/master/Android/instantapps/Screenshot_20170429-154409.png)
 
 
